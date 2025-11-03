@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "42a39df99a04f1d7662d7b3d473b0b85",
+    "content-hash": "445d67aabe071f1c144fc8ce4647790e",
     "packages": [
         {
             "name": "phpmailer/phpmailer",
@@ -89,16 +89,16 @@
         },
         {
             "name": "sedalit/simple-mvc-framework",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sedalit/simple-mvc-framework.git",
-                "reference": "b4238854ea35abc5d8108ce7e043c4e046104053"
+                "reference": "fcb54eafc109c3d1d5970b55835e663207d97219"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sedalit/simple-mvc-framework/zipball/b4238854ea35abc5d8108ce7e043c4e046104053",
-                "reference": "b4238854ea35abc5d8108ce7e043c4e046104053",
+                "url": "https://api.github.com/repos/sedalit/simple-mvc-framework/zipball/fcb54eafc109c3d1d5970b55835e663207d97219",
+                "reference": "fcb54eafc109c3d1d5970b55835e663207d97219",
                 "shasum": ""
             },
             "require": {
@@ -134,9 +134,9 @@
             ],
             "support": {
                 "issues": "https://github.com/sedalit/simple-mvc-framework/issues",
-                "source": "https://github.com/sedalit/simple-mvc-framework/tree/v1.0.0"
+                "source": "https://github.com/sedalit/simple-mvc-framework/tree/v1.0.1"
             },
-            "time": "2025-10-12T13:03:23+00:00"
+            "time": "2025-10-18T11:10:10+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
