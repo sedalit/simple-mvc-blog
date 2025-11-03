@@ -15,5 +15,5 @@ define('DB', [
 ]);
 
 const TABLES_WHITELIST = [
-    'users', 'posts'
+    'users', 'posts', 'categories'
 ];

@@ -2,9 +2,9 @@
 
 define("ROOT", dirname(__DIR__));
 
-const APP_NAME = 'App';
-const PATH = 'http://app.local';
-const DEBUG = 0;
+const APP_NAME = 'Zenblog';
+const PATH = 'http://zenblog.test';
+const DEBUG = 1;
 
 const ENV_PATH = ROOT . '/.env';
 const WWW = ROOT . '/public';

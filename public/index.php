@@ -19,6 +19,7 @@ $app = new Application($_SERVER['REQUEST_URI'], [
     MailService::class,
     ...PROVIDERS
 ]);
+Application::view()->setLayout(LAYOUT);
 
 require_once CONFIG . '/routes.php';
 
