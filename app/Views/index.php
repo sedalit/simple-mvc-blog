@@ -1,3 +1,1 @@
-<div class="container">
-    <h1>Привет!</h1>
-</div>
+<?php view()->renderPartial('includes/posts', ['posts' => $posts, 'pagination' => $pagination]) ?>
